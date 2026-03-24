@@ -11,3 +11,7 @@ wheels/
 
 # private env files
 .env
+
+#data set files
+./speech_commands/
+**.wav
